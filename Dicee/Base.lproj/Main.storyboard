@@ -88,6 +88,7 @@
                                             </button>
                                         </subviews>
                                         <constraints>
+                                            <constraint firstItem="qcs-Uq-4r8" firstAttribute="top" secondItem="fbB-oW-p1j" secondAttribute="top" constant="20" id="3uf-c7-Kee"/>
                                             <constraint firstItem="qcs-Uq-4r8" firstAttribute="centerX" secondItem="fbB-oW-p1j" secondAttribute="centerX" id="Xuw-pe-pWW"/>
                                         </constraints>
                                     </view>
